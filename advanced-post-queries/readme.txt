@@ -1,11 +1,11 @@
-===  Advanced Queries ===
+=== Advanced Queries ===
 Contributors: shabti
-Tags: elementor, queries, posts, advanced query, dynamic query, advanced queries, dynamic queries
+Tags: elementor, queries, posts, listings, advanced queries, dynamic queries
 Requires at least: 4.6
-Tested up to: 6.4.3
-Stable tag: 1.1.3
+Tested up to: 6.7.1
+Stable tag: 1.1.4
 Donate link: https://paypal.me/KaplanWebDev
-Requires PHP: 5.2.4
+Requires PHP: 7.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,11 @@ Check out Elementor Pro. We highly recommend pro for anyone who is looking to ge
 
 
 == Changelog ==
+= 1.1.4 =
+* Release Date - January 05, 2025
+* Bumped Tested WordPress Version 
+* Post Custom Field Contains now supports ACF relationship field
+
 = 1.1.3 =
 * Release Date - March 21, 2024
 * Bumped Tested WordPress version
